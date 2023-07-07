@@ -8,7 +8,7 @@
 <div style="display: inline_block">
 
 
-<img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/reactjs-original.svg" />
 
 <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
