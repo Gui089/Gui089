@@ -2,4 +2,4 @@
 # Guilherme Coutinho
 
 ## Sou Desenvolvedor Full Stack React/Node, sou graduando em Eng. de Software pela uninter
-## Meu Portofólio : https://app.netlify.com/sites/bejewelled-taiyaki-8e73bd/overview](https://bejewelled-taiyaki-8e73bd.netlify.app/
+## Meu Portofólio : https://bejewelled-taiyaki-8e73bd.netlify.app/
